@@ -5,3 +5,4 @@ Objective B: Achieve generalization capabilities across different base station p
 
 Objective C: Achieve generalization capabilities across different base station configurations. The model must predict the energy consumption of newly configured parameters based on a small number of real network configuration parameters. For instance, if the training data contains samples collected from many base station products, when the transmit power is set to 30, 35, and 43 dBm, the model must estimate the energy consumed when the transmit power is set to 40 dBm.
 
+## contest URL: https://zindi.africa/competitions/aiml-for-5g-energy-consumption-modelling/
